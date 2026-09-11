@@ -1,0 +1,5 @@
+interface:
+  display_name: "Grill You"
+  short_description: "Stress-test plans with an expert, critic, and researcher"
+policy:
+  allow_implicit_invocation: false
